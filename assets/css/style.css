@@ -791,6 +791,7 @@ body {
 .video-container {
     position: absolute;
     top: 47px;
+   background-color: red;
     background-image: url(./img/Sparkle-Video-1.png);
     width: 1366px;
     height: 722px;
