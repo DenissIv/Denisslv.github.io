@@ -126,7 +126,7 @@
     div.video-container {
         position: absolute;
         top: 48px;
-        background-image: url(assets/img/Sparkle\ Video\ 1.png);
+        background-image: url("../img/Sparkle Video 1.png");
         background-size: 320px;
         width: 320px;
         height: 169px;
@@ -428,7 +428,7 @@
     div.orange-box {
         width: 320px;
         height: 455px;
-        background-image: url("assets/img/Subtractfooter.svg");
+        background-image: url("../img/Subtractfooter.svg");
         background-position-x: -752px;
         background-position-y: 0px;
         background-size: 1366px 455px;
@@ -591,7 +591,7 @@
         z-index: 5;
         border: none;
         outline: none;
-        background-image: url(assets/img/free-arrow-up-icon-2826-thumb.png);
+        background-image: url("../img/free-arrow-up-icon-2826-thumb.png");
         background-color: #FF8A00;
         background-size: 40px;
         cursor: pointer;
@@ -1275,7 +1275,7 @@ button:active {
     z-index: 5;
     border: none;
     outline: none;
-    background-image: url(assets/img/free-arrow-up-icon-2826-thumb.png);
+    background-image: url("../img/free-arrow-up-icon-2826-thumb.png");
     background-color: #FF8A00;
     background-size: 40px;
     cursor: pointer;
