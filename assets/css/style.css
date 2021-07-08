@@ -587,7 +587,7 @@
         display: none;
         position: fixed;
         bottom: 1%;
-        right: 10%;
+        left: 20%;
         z-index: 5;
         border: none;
         outline: none;
