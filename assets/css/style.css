@@ -4,6 +4,9 @@
 /*MOBILE VERSION*/
 
 @media only screen and (max-width: 500px) {
+     body {
+        overflow-x: hidden;
+    }
     * {
         padding: 0;
         margin: 0;
