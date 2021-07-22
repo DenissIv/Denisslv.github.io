@@ -35,7 +35,7 @@ function showDropdownMenu() {
     if (menu[0].style.display === "block") {
         button[0].style.backgroundImage = "url(assets/img/Vectortablet.png)";
         menu[0].style.display = "none";
-        logo[0].style.marginLeft = "69px";
+        logo[0].style.marginLeft = "65px";
         main[0].style.display = "block";
         footer[0].style.display = "block";
         video[0].style.display = "block";
@@ -52,6 +52,7 @@ function showDropdownMenu() {
 
 function checkMenu() {
     if (window.innerWidth > 800) {
+        logo[0].style.marginLeft = "0px";
         menu[0].style.display = "none";
         main[0].style.display = "block";
         footer[0].style.display = "block";
