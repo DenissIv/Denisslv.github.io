@@ -52,7 +52,6 @@ function showDropdownMenu() {
 
 function checkMenu() {
     if (window.innerWidth > 800) {
-        logo[0].style.marginLeft = "0px";
         menu[0].style.display = "none";
         main[0].style.display = "block";
         footer[0].style.display = "block";
